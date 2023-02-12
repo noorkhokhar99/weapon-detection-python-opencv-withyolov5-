@@ -1,1 +1,1 @@
-# weapon-detection-python-opencv-withyolov5-
+# weapon detection python opencv with yolov5
