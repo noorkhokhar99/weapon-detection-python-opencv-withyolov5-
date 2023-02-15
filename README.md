@@ -28,11 +28,15 @@ pip install -r requirements.txt
 
 `
 
+download weight: https://drive.google.com/drive/folders/1g44ApwZcTKVfoHJxxN_caI23XezYCEg-?usp=sharing
+
 <p align="center">
 <img src="https://github.com/noorkhokhar99/weapon-detection-python-opencv-withyolov5-/blob/main/weapon.png">
 </p>
 
 
+
+do
 
 
 
